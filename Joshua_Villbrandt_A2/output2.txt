@@ -1,0 +1,2 @@
+Number of Queens: 2
+Total number of solutions: 0

@@ -1,0 +1,3 @@
+Number of Queens: 1
+Solution 1: (1, 1)
+Total number of solutions: 1
